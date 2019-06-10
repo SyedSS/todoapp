@@ -6,7 +6,6 @@
 
 ## Running Locally
 
-1: Clone/unzip the project.
+1: Clone the project: git remote add origin https://github.com/SyedSS/todoapp.git
 2: Run npm install in the root directory to get all of the dependencies.
-
-3: Run npm start
+3: Run npm start.
